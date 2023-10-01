@@ -31,77 +31,77 @@
       "label": "Tower-Actors",
       "path": "packs/tower-actors",
       "type": "Actor",
+      "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf2e"
+      }
     },
     {
       "name": "tower-items",
       "label": "Tower-Items",
       "path": "packs/tower-items",
       "type": "Item",
+      "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf2e"
+      }
     },
     {
       "name": "tower-journals",
       "label": "Tower-Journals",
       "path": "packs/tower-journals",
       "type": "JournalEntry",
+      "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf2e"
+      }
     },
     {
       "name": "tower-macros",
       "label": "Tower-Macros",
       "path": "packs/tower-macros",
       "type": "Macro",
+      "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf2e"
+      }
     },
     {
       "name": "tower-pregens",
       "label": "Tower-Pregens",
       "path": "packs/tower-pregens",
       "type": "Actor",
+      "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf2e"
+      }
     },
     {
       "name": "tower-roll-tables",
       "label": "Tower-Roll-Tables",
       "path": "packs/tower-roll-tables",
       "type": "RollTable",
+      "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf2e"
+      }
     },
     {
       "name": "tower-scenes",
       "label": "Tower-Scenes",
       "path": "packs/tower-scenes",
       "type": "Scene",
+      "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf2e"
+      }
     }
   ],
   "packFolders": [
@@ -116,10 +116,11 @@
         "tower-pregens",
         "tower-roll-tables",
         "tower-scenes"
-      ]
+      ],
+      "folders": []
     }
-  ]
-  "url": ""
-  "manifest": ""
-  "download": ""
+  ],
+  "url": "tacobell.com"
+  "manifest": "https://github.com/theGenebob/TowerofAdrenspire/releases/download/0.0.1/module.json",
+  "download": "https://github.com/theGenebob/TowerofAdrenspire/releases/download/0.0.1/the-tower-of-ardenspire.zip"
 }
