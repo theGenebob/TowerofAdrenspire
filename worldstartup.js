@@ -9,7 +9,7 @@ Hooks.on('ready', async () => {
     // Show a confirmation dialog
     const dialogResult = await Dialog.confirm({
       title: 'Warning!',
-      content: 'This action will wipe everything. Are you sure you want to proceed?',
+      content: '<p>Welcome to "The Tower of Ardenspire." By choosing "Yes" below, you are commencing the module initialization process.</p><p><strong>Please be aware that this procedure will result in the removal of all pre-existing data within this world. If this is not your intention, please click "No" and promptly disable this module.</strong></p><p>I highly recommend against proceeding if you have been utilizing this world for other purposes. Ideally, this module is intended for installation within a freshly created world.</p><p>I hope you have as much fun playing this module as I had making it. </p>',
       yes: async () => {
         // User clicked "Accept"
         // Delete data from various parts of the world
