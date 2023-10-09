@@ -1,0 +1,127 @@
+{
+  "id": "the-tower-of-ardenspire",
+  "title": "The Tower of Ardenspire",
+  "version": "0.0.5",
+  "esmodules": [
+    "worldstartup.js",
+    "combathooks.js",
+    "characterchooser.js",
+    "scenemacrohook.js"
+  ],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Eugene M"
+    }
+  ],
+  "packs": [
+    {
+      "name": "tower-actors",
+      "label": "Tower-Actors",
+      "path": "packs/tower-actors",
+      "type": "Actor",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tower-items",
+      "label": "Tower-Items",
+      "path": "packs/tower-items",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tower-journals",
+      "label": "Tower-Journals",
+      "path": "packs/tower-journals",
+      "type": "JournalEntry",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tower-macros",
+      "label": "Tower-Macros",
+      "path": "packs/tower-macros",
+      "type": "Macro",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tower-pregens",
+      "label": "Tower-Pregens",
+      "path": "packs/tower-pregens",
+      "type": "Actor",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tower-roll-tables",
+      "label": "Tower-Roll-Tables",
+      "path": "packs/tower-roll-tables",
+      "type": "RollTable",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tower-scenes",
+      "label": "Tower-Scenes",
+      "path": "packs/tower-scenes",
+      "type": "Scene",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "The Tower of Ardenspire",
+      "sorting": "m",
+      "packs": [
+        "tower-actors",
+        "tower-items",
+        "tower-journals",
+        "tower-macros",
+        "tower-pregens",
+        "tower-roll-tables",
+        "tower-scenes"
+      ],
+      "folders": []
+    }
+  ],
+  "url": "https://github.com/theGenebob/TowerofAdrenspire",
+  "manifest": "https://github.com/theGenebob/TowerofAdrenspire/releases/download/0.0.5/module.json",
+  "download": "https://github.com/theGenebob/TowerofAdrenspire/releases/download/0.0.5/the-tower-of-ardenspire.zip"
+}
