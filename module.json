@@ -1,7 +1,7 @@
 {
   "id": "the-tower-of-ardenspire",
   "title": "The Tower of Ardenspire",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "esmodules": [
     "worldstartup.js",
     "combathooks.js",
@@ -122,6 +122,6 @@
     }
   ],
   "url": "https://github.com/theGenebob/TowerofAdrenspire",
-  "manifest": "https://github.com/theGenebob/TowerofAdrenspire/releases/download/0.0.5/module.json",
-  "download": "https://github.com/theGenebob/TowerofAdrenspire/releases/download/0.0.5/the-tower-of-ardenspire.zip"
+  "manifest": "https://github.com/theGenebob/TowerofAdrenspire/releases/download/0.0.6/module.json",
+  "download": "https://github.com/theGenebob/TowerofAdrenspire/releases/download/0.0.6/the-tower-of-ardenspire.zip"
 }
