@@ -1,15 +1,8 @@
-2023/10/08-13:20:25.276 588c Recovering log #132
-2023/10/08-13:20:25.279 588c Delete type=0 #132
-2023/10/08-13:20:25.279 588c Delete type=3 #130
-2023/10/09-11:16:23.285 2780 Level-0 table #137: started
-2023/10/09-11:16:23.290 2780 Level-0 table #137: 9935 bytes OK
-2023/10/09-11:16:23.291 2780 Delete type=0 #135
-2023/10/09-11:16:23.291 2780 Manual compaction at level-0 from '!folders!0pbK8tMXUVDgQdvr' @ 72057594037927935 : 1 .. '!scenes.tokens.delta!9DeEw5xBWvGGKSx2.zFWl7GogHIgTE0Id.a90OjHgSwj0rOrV4' @ 0 : 0; will stop at (end)
-2023/10/09-11:16:23.291 2780 Manual compaction at level-1 from '!folders!0pbK8tMXUVDgQdvr' @ 72057594037927935 : 1 .. '!scenes.tokens.delta!9DeEw5xBWvGGKSx2.zFWl7GogHIgTE0Id.a90OjHgSwj0rOrV4' @ 0 : 0; will stop at '!scenes.tokens.delta!tvU4s5DStnosLvZh.zFWl7GogHIgTE0Id.a90OjHgSwj0rOrV4' @ 82 : 1
-2023/10/09-11:16:23.291 2780 Compacting 1@1 + 1@2 files
-2023/10/09-11:16:23.299 2780 Generated table #138@1: 34 keys, 9523 bytes
-2023/10/09-11:16:23.299 2780 Compacted 1@1 + 1@2 files => 9523 bytes
-2023/10/09-11:16:23.301 2780 compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/10/09-11:16:23.301 2780 Delete type=2 #113
-2023/10/09-11:16:23.301 2780 Delete type=2 #137
-2023/10/09-11:16:23.302 2780 Manual compaction at level-1 from '!scenes.tokens.delta!tvU4s5DStnosLvZh.zFWl7GogHIgTE0Id.a90OjHgSwj0rOrV4' @ 82 : 1 .. '!scenes.tokens.delta!9DeEw5xBWvGGKSx2.zFWl7GogHIgTE0Id.a90OjHgSwj0rOrV4' @ 0 : 0; will stop at (end)
+2023/10/09-14:15:57.758 588c Recovering log #141
+2023/10/09-14:15:57.761 588c Delete type=0 #141
+2023/10/09-14:15:57.761 588c Delete type=3 #139
+2023/10/09-16:06:26.801 2780 Level-0 table #146: started
+2023/10/09-16:06:26.801 2780 Level-0 table #146: 0 bytes OK
+2023/10/09-16:06:26.802 2780 Delete type=0 #144
+2023/10/09-16:06:26.804 2780 Manual compaction at level-0 from '!folders!0pbK8tMXUVDgQdvr' @ 72057594037927935 : 1 .. '!scenes.tokens.delta!9DeEw5xBWvGGKSx2.zFWl7GogHIgTE0Id.a90OjHgSwj0rOrV4' @ 0 : 0; will stop at (end)
+2023/10/09-16:06:26.804 2780 Manual compaction at level-1 from '!folders!0pbK8tMXUVDgQdvr' @ 72057594037927935 : 1 .. '!scenes.tokens.delta!9DeEw5xBWvGGKSx2.zFWl7GogHIgTE0Id.a90OjHgSwj0rOrV4' @ 0 : 0; will stop at (end)

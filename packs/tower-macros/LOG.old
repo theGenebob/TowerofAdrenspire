@@ -1,15 +1,15 @@
-2023/10/08-13:20:25.249 588c Recovering log #142
-2023/10/08-13:20:25.252 588c Delete type=0 #142
-2023/10/08-13:20:25.252 588c Delete type=3 #140
-2023/10/09-11:16:23.233 2780 Level-0 table #147: started
-2023/10/09-11:16:23.240 2780 Level-0 table #147: 25737 bytes OK
-2023/10/09-11:16:23.241 2780 Delete type=0 #145
-2023/10/09-11:16:23.252 2780 Manual compaction at level-0 from '!folders!ACYbrkLKno5rTLrK' @ 72057594037927935 : 1 .. '!macros!xXd6CxnDtf8rENHq' @ 0 : 0; will stop at (end)
-2023/10/09-11:16:23.263 2780 Manual compaction at level-1 from '!folders!ACYbrkLKno5rTLrK' @ 72057594037927935 : 1 .. '!macros!xXd6CxnDtf8rENHq' @ 0 : 0; will stop at '!macros!q7hdwIAG6t6pqBdL' @ 183 : 1
-2023/10/09-11:16:23.263 2780 Compacting 1@1 + 1@2 files
-2023/10/09-11:16:23.267 2780 Generated table #148@1: 56 keys, 80876 bytes
-2023/10/09-11:16:23.268 2780 Compacted 1@1 + 1@2 files => 80876 bytes
-2023/10/09-11:16:23.268 2780 compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/10/09-11:16:23.268 2780 Delete type=2 #131
-2023/10/09-11:16:23.269 2780 Delete type=2 #147
-2023/10/09-11:16:23.279 2780 Manual compaction at level-1 from '!macros!q7hdwIAG6t6pqBdL' @ 183 : 1 .. '!macros!xXd6CxnDtf8rENHq' @ 0 : 0; will stop at (end)
+2023/10/09-14:15:57.713 588c Recovering log #151
+2023/10/09-14:15:57.716 588c Delete type=0 #151
+2023/10/09-14:15:57.716 588c Delete type=3 #149
+2023/10/09-16:06:26.772 2780 Level-0 table #156: started
+2023/10/09-16:06:26.781 2780 Level-0 table #156: 3382 bytes OK
+2023/10/09-16:06:26.781 2780 Delete type=0 #154
+2023/10/09-16:06:26.782 2780 Manual compaction at level-0 from '!folders!ACYbrkLKno5rTLrK' @ 72057594037927935 : 1 .. '!macros!xXd6CxnDtf8rENHq' @ 0 : 0; will stop at (end)
+2023/10/09-16:06:26.793 2780 Manual compaction at level-1 from '!folders!ACYbrkLKno5rTLrK' @ 72057594037927935 : 1 .. '!macros!xXd6CxnDtf8rENHq' @ 0 : 0; will stop at '!macros!q7hdwIAG6t6pqBdL' @ 207 : 1
+2023/10/09-16:06:26.793 2780 Compacting 1@1 + 1@2 files
+2023/10/09-16:06:26.797 2780 Generated table #157@1: 56 keys, 81399 bytes
+2023/10/09-16:06:26.797 2780 Compacted 1@1 + 1@2 files => 81399 bytes
+2023/10/09-16:06:26.797 2780 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/09-16:06:26.797 2780 Delete type=2 #148
+2023/10/09-16:06:26.798 2780 Delete type=2 #156
+2023/10/09-16:06:26.800 2780 Manual compaction at level-1 from '!macros!q7hdwIAG6t6pqBdL' @ 207 : 1 .. '!macros!xXd6CxnDtf8rENHq' @ 0 : 0; will stop at (end)
