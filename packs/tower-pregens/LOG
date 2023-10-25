@@ -1,0 +1,8 @@
+2023/10/25-09:58:31.946 cd4 Recovering log #280
+2023/10/25-09:58:31.949 cd4 Delete type=0 #280
+2023/10/25-09:58:31.949 cd4 Delete type=3 #278
+2023/10/25-10:00:13.026 2c24 Level-0 table #285: started
+2023/10/25-10:00:13.026 2c24 Level-0 table #285: 0 bytes OK
+2023/10/25-10:00:13.027 2c24 Delete type=0 #283
+2023/10/25-10:00:13.029 2c24 Manual compaction at level-0 from '!actors!04hwtE7wqfaGxmGZ' @ 72057594037927935 : 1 .. '!actors.items!heVJXAiHEQ7dwNpb.vfbLyiwquGdjYpby' @ 0 : 0; will stop at (end)
+2023/10/25-10:00:13.029 2c24 Manual compaction at level-1 from '!actors!04hwtE7wqfaGxmGZ' @ 72057594037927935 : 1 .. '!actors.items!heVJXAiHEQ7dwNpb.vfbLyiwquGdjYpby' @ 0 : 0; will stop at (end)

@@ -1,8 +1,8 @@
-2023/10/24-10:48:11.937 40e0 Recovering log #276
-2023/10/24-10:48:11.940 40e0 Delete type=0 #276
-2023/10/24-10:48:11.940 40e0 Delete type=3 #274
-2023/10/24-12:01:11.823 3228 Level-0 table #281: started
-2023/10/24-12:01:11.824 3228 Level-0 table #281: 0 bytes OK
-2023/10/24-12:01:11.825 3228 Delete type=0 #279
-2023/10/24-12:01:11.836 3228 Manual compaction at level-0 from '!folders!0pbK8tMXUVDgQdvr' @ 72057594037927935 : 1 .. '!scenes.tokens.delta!yhj6tEdiPxk7kuyk.zYgsIKVNnMKq38qU.IXDlPFqYtXg9gxuc' @ 0 : 0; will stop at (end)
-2023/10/24-12:01:11.836 3228 Manual compaction at level-1 from '!folders!0pbK8tMXUVDgQdvr' @ 72057594037927935 : 1 .. '!scenes.tokens.delta!yhj6tEdiPxk7kuyk.zYgsIKVNnMKq38qU.IXDlPFqYtXg9gxuc' @ 0 : 0; will stop at (end)
+2023/10/24-12:09:17.787 878 Recovering log #280
+2023/10/24-12:09:17.790 878 Delete type=0 #280
+2023/10/24-12:09:17.790 878 Delete type=3 #278
+2023/10/25-09:53:12.729 2c24 Level-0 table #285: started
+2023/10/25-09:53:12.729 2c24 Level-0 table #285: 0 bytes OK
+2023/10/25-09:53:12.730 2c24 Delete type=0 #283
+2023/10/25-09:53:12.745 2c24 Manual compaction at level-0 from '!folders!0pbK8tMXUVDgQdvr' @ 72057594037927935 : 1 .. '!scenes.tokens.delta!yhj6tEdiPxk7kuyk.zYgsIKVNnMKq38qU.IXDlPFqYtXg9gxuc' @ 0 : 0; will stop at (end)
+2023/10/25-09:53:12.745 2c24 Manual compaction at level-1 from '!folders!0pbK8tMXUVDgQdvr' @ 72057594037927935 : 1 .. '!scenes.tokens.delta!yhj6tEdiPxk7kuyk.zYgsIKVNnMKq38qU.IXDlPFqYtXg9gxuc' @ 0 : 0; will stop at (end)
