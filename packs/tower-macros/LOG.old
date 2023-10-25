@@ -1,8 +1,8 @@
-2023/10/12-09:24:20.231 bdc Recovering log #190
-2023/10/12-09:24:20.235 bdc Delete type=0 #190
-2023/10/12-09:24:20.235 bdc Delete type=3 #188
-2023/10/12-09:30:23.284 33f0 Level-0 table #196: started
-2023/10/12-09:30:23.284 33f0 Level-0 table #196: 0 bytes OK
-2023/10/12-09:30:23.285 33f0 Delete type=0 #194
-2023/10/12-09:30:23.288 33f0 Manual compaction at level-0 from '!folders!ACYbrkLKno5rTLrK' @ 72057594037927935 : 1 .. '!macros!zwcgZon14R1vWzD4' @ 0 : 0; will stop at (end)
-2023/10/12-09:30:23.289 33f0 Manual compaction at level-1 from '!folders!ACYbrkLKno5rTLrK' @ 72057594037927935 : 1 .. '!macros!zwcgZon14R1vWzD4' @ 0 : 0; will stop at (end)
+2023/10/24-10:48:11.896 4298 Recovering log #297
+2023/10/24-10:48:11.904 4298 Delete type=0 #297
+2023/10/24-10:48:11.905 4298 Delete type=3 #295
+2023/10/24-12:01:11.815 3228 Level-0 table #302: started
+2023/10/24-12:01:11.815 3228 Level-0 table #302: 0 bytes OK
+2023/10/24-12:01:11.819 3228 Delete type=0 #300
+2023/10/24-12:01:11.822 3228 Manual compaction at level-0 from '!folders!ACYbrkLKno5rTLrK' @ 72057594037927935 : 1 .. '!macros!zwcgZon14R1vWzD4' @ 0 : 0; will stop at (end)
+2023/10/24-12:01:11.822 3228 Manual compaction at level-1 from '!folders!ACYbrkLKno5rTLrK' @ 72057594037927935 : 1 .. '!macros!zwcgZon14R1vWzD4' @ 0 : 0; will stop at (end)

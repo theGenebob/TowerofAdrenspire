@@ -1,8 +1,1 @@
-2023/10/12-09:30:32.861 bdc Recovering log #187
-2023/10/12-09:30:32.863 bdc Delete type=0 #187
-2023/10/12-09:30:32.863 bdc Delete type=3 #185
-2023/10/12-09:58:03.102 33f0 Level-0 table #192: started
-2023/10/12-09:58:03.102 33f0 Level-0 table #192: 0 bytes OK
-2023/10/12-09:58:03.103 33f0 Delete type=0 #190
-2023/10/12-09:58:03.104 33f0 Manual compaction at level-0 from '!actors!0uIA7fgfQM1saWHs' @ 72057594037927935 : 1 .. '!folders!u93A6s58GyM5KO1T' @ 0 : 0; will stop at (end)
-2023/10/12-09:58:03.104 33f0 Manual compaction at level-1 from '!actors!0uIA7fgfQM1saWHs' @ 72057594037927935 : 1 .. '!folders!u93A6s58GyM5KO1T' @ 0 : 0; will stop at (end)
+2023/10/24-12:09:17.737 3fb0 Recovering log #296

@@ -27,6 +27,11 @@ Hooks.on('ready', async () => {
         Folder.deleteDocuments(game.folders.filter(i=>i.type==="Playlist").map(i=>i.id))
         await game.macros.forEach(macro => macro.delete());
         Folder.deleteDocuments(game.folders.filter(i=>i.type==="Macro").map(i=>i.id))
+		
+		//delete all homebrew traits
+		const currentSettingValue = game.settings.get("pf2e", "homebrew.creatureTraits");
+		currentSettingValue.splice(0);
+		game.settings.set("pf2e", "homebrew.creatureTraits", currentSettingValue);
         
         // Import and execute the "Kickoff" macro
         try {

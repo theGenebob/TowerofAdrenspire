@@ -5,4 +5,4 @@ const macro1 = game.macros.getName(macroName1);
 if (!macro1) { game.macros.getName("Encounter End").execute();
 }
 });
-Hooks.on("pf2e.startTurn", () => game.macros.getName("AI Fear Check").execute());
+Hooks.on("pf2e.startTurn", () => game.macros.getName("AI Starting Point").execute());
