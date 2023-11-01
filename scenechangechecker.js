@@ -1,9 +1,9 @@
 Hooks.on("canvasReady", () => {
-  game.macros.getName("Play Music").execute();
+  if(game.macros.getName("Play Music")){game.macros.getName("Play Music").execute()}
 });
 
 Hooks.on("canvasSceneChange", () => {
-  game.macros.getName("Play Music").execute();
+  if(game.macros.getName("Play Music")){game.macros.getName("Play Music").execute()}
 });
 
 Hooks.once("ready", async () => {
@@ -11,4 +11,4 @@ Hooks.once("ready", async () => {
     if (currentScene && currentScene.name === "Travelling") {
         game.macros.getName("Arrive at Ardenspire").execute()
     }
-  });
+ });

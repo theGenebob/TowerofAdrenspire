@@ -1,13 +1,14 @@
 {
   "id": "the-tower-of-ardenspire",
   "title": "The Tower of Ardenspire",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "esmodules": [
     "worldstartup.js",
     "combathooks.js",
     "characterchooser.js",
     "scenemacrohook.js",
-    "scenechangechecker.js"
+    "scenechangechecker.js",
+    "buttonmaker.js"
     ],
     "compatibility": {
     "minimum": "11",
@@ -123,7 +124,7 @@
     }
   ],
   "url": "https://github.com/theGenebob/TowerofAdrenspire",
-  "manifest": "https://github.com/theGenebob/TowerofAdrenspire/releases/download/0.0.8/module.json",
-  "download": "https://github.com/theGenebob/TowerofAdrenspire/releases/download/0.0.8/the-tower-of-ardenspire.zip",
+  "manifest": "https://github.com/theGenebob/TowerofAdrenspire/releases/download/0.0.9/module.json",
+  "download": "https://github.com/theGenebob/TowerofAdrenspire/releases/download/0.0.9/the-tower-of-ardenspire.zip",
   "description": "Credits\nMusic: \n\"KNIGHT OF DESTINY\" by NickOST\nFreedom' by @ScottBuckley\n\"CASTLES IN THE SKY\" by @ScottBuckley\n\"Time and Space\" by Keys Of Moon\n\"THUNDER UNISON\" by Keys Of Moon\n\"JEWEL OF NEKHEN\" by WombatNoisesAudio\nThe Army of Minotaur' by @Makai-symphony\n\nHUGE Thank you! to the volunteers who have made life easier for me:\nBeefpotato\nlokil93\n\nThank you to everyone who has given testing and feedback, you are so appreciated!"
 }
