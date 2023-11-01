@@ -1,3 +1,8 @@
-2023/10/28-14:52:25.224 1600 Recovering log #325
-2023/10/28-14:52:25.232 1600 Delete type=0 #325
-2023/10/28-14:52:25.232 1600 Delete type=3 #323
+2023/11/01-10:46:37.520 348c Recovering log #343
+2023/11/01-10:46:37.523 348c Delete type=0 #343
+2023/11/01-10:46:37.523 348c Delete type=3 #341
+2023/11/01-16:55:34.760 32cc Level-0 table #348: started
+2023/11/01-16:55:34.761 32cc Level-0 table #348: 0 bytes OK
+2023/11/01-16:55:34.762 32cc Delete type=0 #346
+2023/11/01-16:55:34.776 32cc Manual compaction at level-0 from '!folders!4kymcGEvxeTRbJUW' @ 72057594037927935 : 1 .. '!items!zFcAC7t4AmfrxDeL' @ 0 : 0; will stop at (end)
+2023/11/01-16:55:34.776 32cc Manual compaction at level-1 from '!folders!4kymcGEvxeTRbJUW' @ 72057594037927935 : 1 .. '!items!zFcAC7t4AmfrxDeL' @ 0 : 0; will stop at (end)
